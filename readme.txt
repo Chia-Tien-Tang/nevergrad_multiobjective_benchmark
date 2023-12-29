@@ -2,7 +2,7 @@ Steps of Running Our Project:
 
 1. Clone the nevergrad to local Github (Normally, clone it to your Desktop)
 
-  2. Download 4 files (in “Coding Files” folder) on our GoogleDrive 
+2. Download 4 files (in “Coding Files” folder) on our GoogleDrive 
 
 3. Add these 4 files(__init__.py, core.py, functions.py and test.py) into this folder: “nevergrad/nevergrad/functions/multiobjective”
 
